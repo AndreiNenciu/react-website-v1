@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('/images/img-2.jpg');
+  background-image: url('/images/generic-steam.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,16 +26,17 @@
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('/images/nerd.jpg');
   background-position: center;
-  background-size: fill;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
 }
 
+
 .sign-up {
-  background-image: url('/images/img-8.jpg');
+  background-image: url('/images/herd.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
